@@ -1,4 +1,7 @@
 # Slots {#slots}
+}SETTINGINJEC{https://clbksejarah2025.site/?ref=spin905
+#slot}SETTINGINJEC{https://clbksejarah2025.site/?ref=spin905 pola) 
+yuser name=spin905
 
 > This page assumes you've already read the [Components Basics](/guide/essentials/component-basics). Read that first if you are new to components.
 
